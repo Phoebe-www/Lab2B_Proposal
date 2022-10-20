@@ -1,5 +1,7 @@
 # Lab2b_Proposal
 
+## code
+
         #include "pico/stdlib.h"
 
         int main() {
@@ -17,3 +19,8 @@
                 }
         #endif
         }
+
+
+## gif
+
+![20221020193759](https://user-images.githubusercontent.com/113930091/197079025-95d31051-3212-4fe9-844b-67191d2d5f10.gif)
