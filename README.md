@@ -1,8 +1,11 @@
 # Lab2b_Proposal
 
 Siyun Wang
+
 wsiyun@seas.upenn.edu
+
 test on: Tested on: DELL Inspiron 5505, Windows 10
+
 
 In this part, we used LED, 1kΩ resistance, breadboard and STEMMA QT. And we used STEMMA QT as input with GPIO 22.
 
