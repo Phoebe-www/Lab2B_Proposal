@@ -46,3 +46,19 @@ Since there are several GPIO pins on the QT-PY 2040, they can be used as I/O por
 ## question
 
 1. How to control the LED brightness change, or how to control the LED brightness slowdown proces？
+
+
+# Update on Oct.31st
+
+## component
+
+RP2040, APDS9960, 510 Ohm resistor, LED, Protoboard, Wires
+
+## peripheral 
+
+GPIO, I2C1
+
+## outline
+
+Our work is an alarm that detects distance.
+
